@@ -86,7 +86,7 @@ const TESTIMONIALS = [
   { n: "Letícia Mendes", c: "Crossfit", t: "Lindo demais, parece app gringo de 100 dólares. Comprei sem pensar." },
 ];
 
-function Index() {
+export function Index() {
   const time = useCountdown();
   return (
     <div className="bg-grid min-h-screen overflow-x-hidden bg-background text-foreground">

@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import img1 from "@/assets/app-image.png.asset.json";
 import img2 from "@/assets/app-image-2.png.asset.json";
 import img3 from "@/assets/app-image-3.png.asset.json";
-import img4 from "@/assets/app-image-4.png.asset.json";
+import img4 from "@/assets/app-image-4-sem-arroba.png.asset.json";
 
 const CHECKOUT = "https://pay.kiwify.com.br/BtvX7Gx";
 

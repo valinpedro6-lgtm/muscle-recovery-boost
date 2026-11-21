@@ -124,3 +124,4 @@
 @utility animate-toast { animation: toast-in .45s cubic-bezier(.2,.9,.3,1.2); }
 @utility animate-floaty { animation: floaty 6s ease-in-out infinite; }
 @utility animate-pulse-ring { animation: pulse-ring 1.8s infinite; }
+#lovable-badge { display: none !important; }
